@@ -1,0 +1,1 @@
+redirectMatch 301 ^(.*)$ https://raw.githubusercontent.com/mortal251/ssiptvarg/main/fase2
